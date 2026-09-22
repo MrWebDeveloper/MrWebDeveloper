@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" dir="rtl">
 
 <img src="https://github.com/user-attachments/assets/c00bdcc0-47d2-4dab-bf34-ba853c6b24e4" alt="Amirhossein - Frontend Developer" width="100%">
 
