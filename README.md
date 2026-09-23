@@ -154,9 +154,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrWebDeveloper&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWebDeveloper&layout=compact&hide_border=true&langs_count=6" />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MrWebDeveloper)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
